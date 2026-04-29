@@ -1,0 +1,13 @@
+{
+  "name": "VoxChain: Secure Decentralized Voting",
+  "description": "A blockchain-powered voting platform featuring immutable ledgers, cryptographic voter identity, and real-time auditable results.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "Blockchain Simulation",
+    "Cryptographic Identity",
+    "Real-time Tallying",
+    "Audit Logs"
+  ]
+}
